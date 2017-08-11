@@ -18,8 +18,7 @@ import java.util.List;
  * Email:crazycodeboy@gmail.com
  */
 public class SplashScreenReactPackage implements ReactPackage {
-
-    @Override
+    
     public List<Class<? extends JavaScriptModule>> createJSModules() {
         return Collections.emptyList();
     }
